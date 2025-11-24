@@ -1,16 +1,8 @@
-# electricity_usage_estimator
+# Electricity Usage Estimator
 
-A new Flutter project.
+This Flutter application helps users estimate the daily and monthly electricity cost of some electric devices. The app is designed with simplicity and practicality in mind, allowing users to select an appliance, input its wattage and usage hours, and instantly view the estimated energy consumption and cost.
 
-## Getting Started
+## Group contribution statement
+Zaydan handled the app structure and screen navigation.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Yorgo worked on the input logic and calculation formulas.
